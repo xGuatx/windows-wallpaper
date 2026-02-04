@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+ENV/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Backup files
+*.bak
+*.backup
+
+# Images (don't commit wallpapers)
+*.png
+*.jpg
+*.jpeg
+*.bmp
+*.gif
+
+# Claude Code
+.claude/
+.claude.json
